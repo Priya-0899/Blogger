@@ -1,7 +1,7 @@
 /* home page css(App.js) */
 .btn_blog {
   position: absolute;
-  top: 150%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 17px 26px;
@@ -12,18 +12,26 @@
   cursor: pointer;
   font-size: 21px;
   font-weight: 600px;
+  z-index: 1;
 }
 
 .bgimg {
-  height: 91vh;
-  width: 194vh;
+  height: 100%;
+  width: 100%;
   display: block;
   margin: auto;
+  position: absolute;
+  top:0;
+  left:0;
+  object-fit: cover;
 }
 
 .main_div {
   position: relative;
-  max-height: 10vh;
+  max-height: 93vh;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
 }
 /* end */
 
