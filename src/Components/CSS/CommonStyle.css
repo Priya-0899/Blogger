@@ -37,6 +37,7 @@
 
 /* headermenu page css */
 .header_blogimg {
+  cursor: pointer;
   height: 5vh;
   width: 5vh;
   display: block;
