@@ -1,18 +1,18 @@
 /* home page css(App.js) */
 .btn_blog {
   position: absolute;
-  top: 40%;
+  top: 43%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 17px 26px;
-  background-color: #d11b1b;
+  background-color: #f57d00;
   color: white;
   border-radius: 18px;
   border: none;
   cursor: pointer;
   font-size: 21px;
   font-weight: 600px;
-  z-index: 1;
+  z-index: 1;  
 }
 
 .bgimg {

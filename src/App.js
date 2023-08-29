@@ -16,7 +16,7 @@ function App() {
       <HeaderMenu />
 
       <div className="main_div">
-        <img src="/blogg.jpg" alt="blog" className="bgimg" />
+        <img src="/blog.jpg" alt="blog" className="bgimg" />
         <br />
         <button className="btn_blog" onClick={blogPage}>
           Continue to Blogging
