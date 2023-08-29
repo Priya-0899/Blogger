@@ -1,0 +1,38 @@
+/* home page css(App.js) */
+.btn_blog {
+  position: absolute;
+  top: 150%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 17px 26px;
+  background-color: #d11b1b;
+  color: white;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+  font-size: 21px;
+  font-weight: 600px;
+}
+
+.bgimg {
+  height: 91vh;
+  width: 194vh;
+  display: block;
+  margin: auto;
+}
+
+.main_div {
+  position: relative;
+  max-height: 10vh;
+}
+/* end */
+
+/* headermenu page css */
+.header_blogimg {
+  height: 5vh;
+  width: 5vh;
+  display: block;
+  margin: auto;
+}
+/* end */
+
